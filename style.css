@@ -11,6 +11,7 @@
 
 body {
   height: 100vh;
+  background: linear-gradient(to bottom, #1488cc, #2b32b2);
 }
 
 .container {
